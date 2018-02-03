@@ -11,3 +11,4 @@ pnorm((270-mean)/sd)-pnorm((240-mean)/sd)
 
 # (3) How long do the longest 20% pregnancies last?
 qnorm(1-0.20)*sd+mean
+qnorm(0.80,mean=266,sd=16)
