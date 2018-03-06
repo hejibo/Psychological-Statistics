@@ -7,4 +7,6 @@ NSymptom<-c(0,3,2,5,3,4,2,3)
 lm.r = lm(NSymptom ~ NSession) 
 summary(lm.r) 
 
+cor(NSymptom, NSession) 
+
 coef(lm.r) # gives the model’s coefficients 
