@@ -1,0 +1,725 @@
+Gender,Ideal,Eye,Statoph,Nucoph,SATM,Year
+Female,68,Other,8,50, ,2105
+Male,64,Other,4,40, ,2105
+Male,68,Other,5,30,430,2105
+Female,72,Green,10,100,540,2105
+Female,64,Green,5,25,480,2105
+Female,71,Green,8,65,540,2105
+Female,74,Blue,8,50,650,2105
+Female,75,Blue,10,50,480,2105
+Female,70,Blue,6,33,250,2105
+Female,72,Blue,5,50,480,2105
+Male,70,Blue,5,85,570,2105
+Male,67,Blue,0,99, ,2105
+Female,72,Brown,7,50,515,2105
+Female,72,Brown,7,67, ,2105
+Female,77,Brown,8,92, ,2105
+Female,68,Brown,4,67,580,2105
+Female,65,Brown,5,67,560,2105
+Female,65,Brown,10,67, ,2105
+Female,72,Brown,3,42,450,2105
+Female,67,Brown,7,50,700,2105
+Female,69,Other,8,55,600,2014
+Female,74,Other,7,69,510,2014
+Male,64,Green,6,71, ,2014
+Female,73,Blue,5,50,460,2014
+Male,63,Brown,8,1,520,2014
+Female,67,Brown,5,67,420,2014
+Male,69,Brown,9,52, ,2014
+Female,70,Brown,9,50,500,2014
+Female,64,Brown,5,50,500,2014
+Female,72,Brown,10,50,500,2014
+Male,69,Other,4,73, ,2013
+Female,68,Green,5,80, ,2013
+Female,72,Blue,3,87,510,2013
+Female,72,Blue,6,70, ,2013
+Female,60,Blue,5,51, ,2013
+Female,72,Blue,7,35,415,2013
+Female,70,Blue,6,60, ,2013
+Female,70,Brown,1,95,680,2013
+Female,75,Brown,3,50,630,2013
+Female,72,Brown,4,80,530,2013
+Female,70,Brown,8,100,480,2013
+Female,75,Brown,7,80,600,2013
+Female,67,Brown,3,80, ,2013
+Female,72,Brown,5,15,550,2013
+Female,69,Brown,7,25, ,2013
+Female,68,Brown,5,75, ,2013
+Male,65,Brown,5,25,450,2013
+Female,67,Other,5,67,520,2012
+Female,62,Other,7,40, ,2012
+Female,72,Other,6,50, ,2012
+Male,64,Other,0,25,700,2012
+Male,67,Other,8,50, ,2012
+Female,74,Green,1,60,500,2012
+Female,72,Green,3,67,500,2012
+Female,70,Green,7,33,450,2012
+Male,65,Green,2,25,510,2012
+Female,73,Green,6,50,500,2012
+Female,75,Green,7,55,610,2012
+Female,74,Green,4,35,480,2012
+Female,67,Green,5,90,660,2012
+Female,74,Green,7,100, ,2012
+Female,70,Green,9,50,560,2012
+Female,73,Green,6, ,650,2012
+Female,69,Blue,7,67,650,2012
+Male,70,Blue,0,25,650,2012
+Female,74,Blue,3,10,480,2012
+Male,64,Blue,6,50, ,2012
+Female,69,Blue,8,60,535,2012
+Female,75,Blue,6,85,500,2012
+Female,72,Blue,8,75,520,2012
+Female,72,Blue,6,0,590,2012
+Female,65,Blue,8,50,470,2012
+Male,62,Brown,7,57,520,2012
+Female,70,Brown,7,50,420,2012
+Male,65,Brown,7,33,500,2012
+Male,65,Brown,6,90,550,2012
+Female,74,Brown,6,33,570,2012
+Female,74,Brown,2,50,650,2012
+Male,68,Brown,5,50, ,2012
+Male,65,Brown,2,15,570,2012
+Female,72,Brown,7,75, ,2012
+Female,71,Brown,7,30,580,2012
+Female,68,Brown,4,48,688,2012
+Female,61,Brown,5,85,550,2012
+Female,74,Brown,5,57, ,2012
+Female,64,Brown,9,50,630,2012
+Male,63,Brown,8,45,700,2012
+Male,64,Brown,3,60,550,2012
+Female,64,Brown,7,50,650,2012
+Female,70,Brown,5,67,710,2012
+Female,75,Brown,4,25,640,2012
+Female,70,Other,8,67,560,2010
+Female,73,Other,6,67,480,2010
+Female,77,Other,6,70,590,2010
+Female,74,Other,6,85,540,2010
+Male,70,Other,7,50,400,2010
+Female,69,Green,5,80,500,2010
+Female,72,Green,9,67,430,2010
+Female,76.8,Green,8,87,460,2010
+Male,65,Green,10,60,450,2010
+Female,68,Green,3,40,640,2010
+Female,67,Green, ,10, ,2010
+Female,69,Green, ,50, ,2010
+Female,65,Green, ,30,510,2010
+Female,75,Blue,5,73,540,2010
+Female,70,Blue,9,65,560,2010
+Female,73,Blue,6,60, ,2010
+Female,68,Blue,8,50, ,2010
+Female,64,Blue, ,50, ,2010
+Female,72,Blue, ,67, ,2010
+Female,72,Blue, ,80,650,2010
+Female,70,Brown,5,50,400,2010
+Female,67,Brown,6,70,590,2010
+Female,72,Brown,7,70,410,2010
+Female,74,Brown,7,50,550,2010
+Female,75,Brown,8,50,580,2010
+Male,67,Brown,5,25,595,2010
+Male,68,Brown,7,0,530,2010
+Male,63,Brown,8,46,700,2010
+Female,65,Brown,8.5,60, ,2010
+Female,67,Brown,8,50,620,2010
+Female,68,Brown,8,67,520,2010
+Female,72,Brown,8.5,62,650,2010
+Female,68,Brown,5,60,620,2010
+Female,72,Brown,7,50,490,2010
+Female,69,Brown,8,90, ,2010
+Female,64,Brown, ,40, ,2010
+Female,75,Brown, ,65,490,2010
+Female,65,Other,8,20, ,2009
+Female,67,Other,1,67,470,2009
+Female,74,Green,7,79, ,2009
+Female,70,Green,4,88,580,2009
+Female,70,Green,4,100,650,2009
+Female,76,Green,8,60, ,2009
+Female,72,Green,9,60,540,2009
+Male,68,Green,5,20, ,2009
+Male,65,Blue,0,69,800,2009
+Female,72,Brown,4,100, ,2009
+Female,75,Brown,7,50,450,2009
+Female,72,Brown,5,40, ,2009
+Female,75,Brown,1,63, ,2009
+Male,64,Brown,7,65, ,2009
+Female,72,Other,7,50,640,2008
+Female,70,Green,5,67, ,2008
+Female,71,Green,5,50,430,2008
+Female,70,Green,5,67,640,2008
+Female,74,Green,2,67, ,2008
+Female,70,Blue,7,67,650,2008
+Female,74,Blue,7,67,550,2008
+Female,70,Blue,7,50,580,2008
+Female,72,Blue,7,67,500,2008
+Female,74,Blue,5,67,600,2008
+Male,64,Blue,7,50,500,2008
+Female,70,Brown,5,50,500,2008
+Female,75,Brown,8,50, ,2008
+Female,80,Brown,5,67,500,2008
+Female,73,Brown,3,0,550,2008
+Female,78,Brown,9,67,440,2008
+Female,76,Other,6,67,530,2007
+Male,69,Other,7,50,495,2007
+Female,69,Green,7,67,550,2007
+Female,68,Green,6,50,510,2007
+Male,62,Green,5,100,680,2007
+Male,78,Green,4,75, ,2007
+Female,72,Blue,8,50, ,2007
+Female,73,Blue,3,70,509,2007
+Female,72,Blue,3,95,550,2007
+Female,72,Blue,7,95,430,2007
+Female, ,Blue,1,90, ,2007
+Male,60,Blue,7,67,500,2007
+Male,74,Blue,5,60,420,2007
+Female,73,Brown,1,75,340,2007
+Female,72,Brown,5,56,410,2007
+Female,74,Brown,6,50,455,2007
+Female,73,Brown,5,67,540,2007
+Female,75,Brown,5,67,720,2007
+Female,72,Brown,5,50,500,2007
+Female,72,Brown,7,67,580,2007
+Female,73,Brown,6,67,520,2007
+Female,72,Brown,9,60, ,2007
+Female,64,Brown,8,70, ,2007
+Male,60,Brown,5,0,620,2007
+Male,68,Brown,1,67,570,2007
+Male,75,Brown,6,67, ,2007
+Male,72,Brown,6,10,460,2007
+Male,72,Brown,5,75,440,2007
+Male,73,Brown,4,88,360,2007
+Male,74,Brown,8,58, ,2007
+Male,64, ,1,75,630,2007
+Female,75,Other,8,85,400,2006
+Female,72,Other,3,80,620,2006
+Female,69,Other,4,80,540,2006
+Female,72,Other,8,75,520,2006
+Female,72,Blue,6,46,420,2006
+Female,70,Blue,5,70,460,2006
+Female,78,Blue,0,72,650,2006
+Male,67,Blue,0,40,680,2006
+Male,67,Blue,7,96,540,2006
+Male,66,Blue,7,37,700,2006
+Female,73,Brown,5,33,580,2006
+Female,74,Brown,7,75,480,2006
+Female,60,Brown,9,50,420,2006
+Female,72,Brown,6,50,500,2006
+Female,72,Brown,8,0,540,2006
+Male,64,Brown,5,37,650,2006
+Female,69,Other,6,75, ,2005
+Female,76,Other,5,50,485,2005
+Female,72,Other,10,90,550,2005
+Female,72,Green,7,75,600,2005
+Female,72,Blue,2,30,620,2005
+Female,70,Brown,4,50,480,2005
+Female,77,Brown,6,92,590,2005
+Female,74,Brown,9,90,480,2005
+Female,72,Brown,7,33,540,2005
+Male,67,Brown,4,80,540,2005
+Male,65,Brown,6,85,510,2005
+Female,75,Green,4,95,650,2004
+Female,71,Green,7,60,560,2004
+Male,71,Green,2,40,650,2004
+Male,72,Green,11,50,740,2004
+Female,72,Blue,5,100,500,2004
+Female,70,Blue,7,40,420,2004
+Female,72,Blue,7,50,720,2004
+Female,73,Blue,5,60,620,2004
+Female,71,Blue,3,100,460,2004
+Male,66,Blue,7,70,540,2004
+Female,74,Brown,4,80,600,2004
+Female,75,Brown,5,70,560,2004
+Male,68,Brown,2,7,600,2004
+Male,66,Brown,9,100,500,2004
+Female,68,Other,6,90,550,2003
+Female,69,Blue,5,50, ,2003
+Female,72,Blue,4,55,620,2003
+Female,72,Blue,6,20,500,2003
+Female,72,Blue,7,65,450,2003
+Female,72,Blue,7,70,520,2003
+Female,66,Blue,8,80,490,2003
+Female,68,Blue,4,60,560,2003
+Female,72,Brown,6,67,540,2003
+Female,74,Brown,6,60,650,2003
+Female,66,Brown,3,50, ,2003
+Female,70,Brown,6,25,500,2003
+Female,72,Brown,7,99,550,2003
+Female,74,Brown,8,57,480,2003
+Female,68,Brown,4,75,600,2003
+Female,65,Brown,0,95,750,2003
+Female,75,Brown,3,56,430,2003
+Female,66,Brown,8,75,600,2003
+Female,72,Other,8,50,475,2002
+Female,70,Other,4,51,690,2002
+Male,66,Other,0,90, ,2002
+Male,68,Other,6,51, ,2002
+Female,72,Green,5,50,710,2002
+Female,72,Green,4,43, ,2002
+Female,70,Green,9,65,430,2002
+Female,72,Green,7,86,580,2002
+Female,73,Blue,5,70,590,2002
+Female,75,Blue,8,80, ,2002
+Female,72,Blue,6,0, ,2002
+Male,65,Blue,3,90, ,2002
+Female,72,Brown,8,100,680,2002
+Female,65,Brown,8,65,425,2002
+Female,72,Brown,6,75,640,2002
+Female,70,Brown,6,60,480,2002
+Female,74,Brown,7,50,560,2002
+Male,67,Brown,6,50,650,2002
+Male,66,Brown,4,15,620,2002
+Male,65,Brown,1,50,690,2002
+Male,69,Brown,8,50,570,2002
+Female,70,Brown,8,100, ,2002
+Female,68,Brown,9,70, ,2002
+Female,72,Brown,8,75, ,2002
+Female,72,Brown,7,67, ,2002
+Male,63,Brown,8,50, ,2002
+Female,72,Other,4,65,515,2001
+Female,70,Other,7,60,400,2001
+Female,74,Other,8,85,400,2001
+Male,62,Other,5,50,520,2001
+Female,74,Green,7,73,590,2001
+Female,72,Green,7,50,480,2001
+Female,72,Green,8,50, ,2001
+Female,71,Green,6,90,425,2001
+Male,66,Green,9,45,460,2001
+Female,74,Green,6,48,590,2001
+Male,70,Blue,5,70,510,2001
+Male,63,Blue,7,65, ,2001
+Male,70,Blue,6,30,480,2001
+Female,71,Blue,5,15,560,2001
+Female,70,Blue,8,70, ,2001
+Female,74,Blue,7,65,580,2001
+Female,74,Blue,8,50, ,2001
+Male,65,Blue,7,65, ,2001
+Male,67,Blue,7,5, ,2001
+Female,73,Brown,9,50,540,2001
+Female,70,Brown,5,80,500,2001
+Female,72,Brown,9,50,550,2001
+Female,67,Brown,7,90,500,2001
+Female,79,Brown,7,50,520,2001
+Female,72,Brown,7,30, ,2001
+Female,72,Brown,8,75,450,2001
+Female,72,Brown,6,60,640,2001
+Male,65,Brown,9,50,672,2001
+Male,65,Brown,2,33,760,2001
+Male,64,Brown,4,35,460,2001
+Male,70,Brown,8,80,600,2001
+Male,68,Brown,8,50, ,2001
+Female,55,Brown,4,60,510,2001
+Male,64,Brown,10,40,430,2001
+Female,66,Brown,6,67, ,2001
+Female,72,Brown,8,80,460,2001
+Female,68,Brown,10,68,510,2001
+Female,75,Brown,3,67,550,2001
+Female,75,Brown,7,60,400,2001
+Male,68,Brown,4,72, ,2001
+Female,70,Brown,8,60, ,2001
+Female,72,Brown,5,60,600,2001
+Female,71,Brown,3,65,560,2001
+Female,73,Brown,6,75, ,2001
+Female,73,Brown,4,20,500,2001
+Female,66,Brown,5,80, ,2001
+Female,66,Brown,7,60, ,2001
+Female,74,Brown,6,10,560,2001
+Female,72,Brown,5,65,520,2001
+Female,72,Brown,5,67,500,2001
+Male,67,Brown,4,90,580,2001
+Male, ,Brown,5,65,410,2001
+Male,67,Brown,4,65,610,2001
+Male,63,Brown,6,33, ,2001
+Male,75,Brown,4,80,520,2001
+Female,68,Other,1,75,450,2000
+Female,73,Other,9,96,610,2000
+Female,68,Other,3,25,510,2000
+Female,74,Other,8,70,475,2000
+Male,64,Other,3,49,500,2000
+Female,68,Other,8,40,320,2000
+Female,68,Other,5,66,500,2000
+Female,67,Other,8,60, ,2000
+Female,65,Other,8,90,510,2000
+Male,67,Other,7,20,460,2000
+Female,72,Green,9,60,480,2000
+Female,72,Green,8,85, ,2000
+Female,72,Green,3,59,640,2000
+Female,72,Blue,6,50, ,2000
+Female,72,Blue,4,99,560,2000
+Female,69,Blue,6,75, ,2000
+Female,70,Blue,8,73,600,2000
+Female,69,Blue,1,45,650,2000
+Female,72,Blue,7,80,520,2000
+Female,72,Blue,8,80, ,2000
+Female,73,Blue,2,50,500,2000
+Female,72,Blue,7,40,350,2000
+Female,75,Brown,10,80,400,2000
+Female,72,Brown,5,50,288,2000
+Female,72,Brown,8,55,610,2000
+Female,72,Brown,3,75,470,2000
+Male,70,Brown,5,75,310,2000
+Male,65,Brown,2,75, ,2000
+Female,72,Brown,9,60,490,2000
+Female,72,Brown,6,40,440,2000
+Female,72,Brown,6,45, ,2000
+Female,75,Brown,5,55,490,2000
+Male,62,Brown,10,45,390,2000
+Male,70,Brown,0,40,630,2000
+Male,65,Brown,9,75,650,2000
+Male,63,Brown,7,50,540,2000
+Female,73,Other,6,85,565,1999
+Female,69,Other,6,50, ,1999
+Female,75,Other,3,80,610,1999
+Male,69,Other,1,50,550,1999
+Female,68,Other,9,30,450,1999
+Female,72,Other,6,50,420,1999
+Female,70,Green,7,10,500,1999
+Female,73,Green,7,60,590,1999
+Female,72,Green,5,33,450,1999
+Male,64,Green,3,30,420,1999
+Male,64,Green,7,67,450,1999
+Female,69,Blue,5,65,400,1999
+Female,76,Blue,10,67,680,1999
+Female,72,Blue,8,50, ,1999
+Female,70,Blue,3,43,560,1999
+Female,73,Blue,7,15,500,1999
+Male,65,Blue,5,60,580,1999
+Male,69,Blue,0,75,670,1999
+Male,65,Blue,7,65,400,1999
+Female,72,Blue,5,50,400,1999
+Female,72,Blue,6,75,600,1999
+Female,80,Blue,8,50,500,1999
+Female,72,Blue,5,75,530,1999
+Male,64,Blue,7,50,500,1999
+Male,66,Blue,10,85,550,1999
+Female,72,Brown,6,50,400,1999
+Female,74,Brown,7,67,520,1999
+Female,71,Brown,8,80,575,1999
+Female,73,Brown,6,75,400,1999
+Female,73,Brown,5,50, ,1999
+Female,66,Brown,9,50,460,1999
+Male,64,Brown,5,65,600,1999
+Male,60,Brown,6,25,650,1999
+Male,64,Brown,4,38,510,1999
+Female,70,Brown,8,80,550,1999
+Female,67,Brown,6,50,375,1999
+Female,72,Brown,8,67,500,1999
+Female,75,Brown,7,33,475,1999
+Female,74,Brown,7,50,500,1999
+Female,70,Brown,7,67,400,1999
+Male,68,Brown,6,50,590,1999
+Female,73,Other,6,33,500,1998
+Female,72,Other,7,67, ,1998
+Male,64,Other,7,80,480,1998
+Female,74,Green,2,50, ,1998
+Female,74,Blue,5,67,600,1998
+Female,72,Blue,7,60,560,1998
+Male,65,Blue,3,90,430,1998
+Female,74,Brown,8,33,430,1998
+Female,73,Brown,5,60, ,1998
+Female,70,Brown,5,65,565,1998
+Female,68,Brown,5,100,500,1998
+Female,71,Brown,6,0,600,1998
+Male, ,Brown,8,10, ,1998
+Male,64,Brown,7,60,500,1998
+Male,63,Brown,10,80,590,1998
+Male,68,Brown,4,67,690,1998
+Male,66,Brown,7,45,780,1998
+Male,65,Brown,3,50,400,1998
+Female,72,Other,6,20,530,1997
+Female,73,Other,10,62,500,1997
+Female,80,Other,7,75, ,1997
+Female,72,Other,8,40,510,1997
+Female,64,Blue,9,55,480,1997
+Female,72,Blue,8,10,480,1997
+Female,73,Blue,6,5,500,1997
+Female,72,Blue,8,33,490,1997
+Male,67,Blue,6,58,500,1997
+Female,72,Brown,8,50,410,1997
+Female,72,Brown,5,75,425,1997
+Female,73,Brown,3,20, ,1997
+Female,72,Brown,5,70,350,1997
+Male,70,Brown,3,67,600,1997
+Male,68,Brown,5,66,560,1997
+Male,64,Brown,3,50,470,1997
+Female,68,Other,10,88,380,1996
+Female,72,Other,8,20,500,1996
+Male,67,Other,8,80,475,1996
+Female,72,Green,9,30,500,1996
+Female,72,Green,7,50,550,1996
+Female,72,Blue,8,50,520,1996
+Female,72,Blue,8,100,420,1996
+Female,76,Blue,8,50,475,1996
+Female,75,Blue,7,60,540,1996
+Female,72,Blue,10,40,370,1996
+Male,67,Blue,7,20,250,1996
+Female,73,Brown,7,50,420,1996
+Female,72,Brown,10,20,490,1996
+Female,76,Brown,10,60,400,1996
+Female,69,Brown,8,25,420,1996
+Female,76,Other,10,11,500,1995
+Female,74,Other,8,90, ,1995
+Female,74,Green,8,95, ,1995
+Female,69,Green,8,85, ,1995
+Female,72,Blue,10,100, ,1995
+Female,74,Blue,7,60,480,1995
+Female,74,Blue,7,65,510,1995
+Female,74,Blue,8,82, ,1995
+Male,66,Blue,5,90,650,1995
+Female,75,Brown,10,50, ,1995
+Female,76,Brown,8,75,540,1995
+Female,70,Brown,7,60,450,1995
+Female,75,Brown,0,88,380,1995
+Female,75,Brown,10,30, ,1995
+Female,72,Brown,8,50,480,1995
+Male,69,Brown,7,40,530,1995
+Male,71,Brown,8,80, ,1995
+Male,66,Brown,1,65,730,1995
+Female,72,Other,9,60,300,1993
+Female,70,Other,6,30,360,1993
+Male,63,Other,1,15,500,1993
+Male,68,Other,5,10,600,1993
+Male,67,Other,5,100,640,1993
+Male,67,Other,3,73,500,1993
+Female,69,Other,5,0, ,1993
+Female,69,Other,8,99, ,1993
+Male,70,Other,8,75, ,1993
+Female,72,Green,6,50, ,1993
+Male,68,Green,4,20,500,1993
+Female,75,Green,3,75,500,1993
+Female,71,Green,8,55, ,1993
+Female,75,Green,3,99, ,1993
+Female,72,Green,10,90,480,1993
+Male,64,Green,7,33,380,1993
+Female,72,Blue,10,65,420,1993
+Female,70,Blue,10,50, ,1993
+Female,74,Blue,4,72, ,1993
+Female,70,Blue,6,75,460,1993
+Female,70,Brown,8,75,640,1993
+Female,72,Brown,9,50, ,1993
+Female,72,Brown,8,70,470,1993
+Female, ,Brown,7,50, ,1993
+Female,71,Brown,8,75,370,1993
+Female,75,Brown,8,55,410,1993
+Female,67,Brown,9,60, ,1993
+Female,60,Brown,5,50, ,1993
+Female,71,Brown,10,70, ,1993
+Female,66,Brown,7,60,500,1993
+Female,69,Brown,9,50, ,1993
+Female,71,Brown,8,0,460,1993
+Female,72,Brown,7,70, ,1993
+Female,65,Brown,10,50, ,1993
+Female,72,Brown,8,40,340,1993
+Male,66,Brown,10,50,400,1993
+Female,75,Other,8,80, ,1992
+Male,70,Other,10,100, ,1992
+Female,78,Green,7,50,480,1992
+Female,72,Blue,5,65, ,1992
+Female,69,Blue,7,20,480,1992
+Male,64,Blue,7,67,410,1992
+Female,71,Brown,8,75,420,1992
+Female,70,Brown,7,50,400,1992
+Female,80,Brown,10,50, ,1992
+Female,74,Brown,8,50,450,1992
+Female,69,Brown,8,90,530,1992
+Female,72,Brown,6,67,350,1992
+Female,75,Brown,8,85,550,1992
+Female,78,Brown,7,70,340,1992
+Male,68,Brown,1,50,340,1992
+Male,70,Brown,8,50,390,1992
+Male,68,Brown,8,5,410,1992
+Female,74,Other,10,50, ,1991
+Male,68,Other,8,67,400,1991
+Male,68,Other,8,33, ,1991
+Female,74,Other,5,90, ,1991
+Female,68,Other,4,70, ,1991
+Female,71,Green,5,33, ,1991
+Female,72,Green,8,67,400,1991
+Female,72,Green,7,50,450,1991
+Female,73,Green,9,75,430,1991
+Female,71,Green,7,25,540,1991
+Female,76,Blue,8,33,540,1991
+Female,74,Blue,4,67,640,1991
+Male,72,Blue,3,17,660,1991
+Male,70,Blue,7,67,600,1991
+Female,74,Blue,8,1, ,1991
+Female,71,Blue,5,67, ,1991
+Female,72,Blue,7,40,450,1991
+Female,70,Brown,3,33,640,1991
+Female,74,Brown,5,75,480,1991
+Female,74,Brown,7,50, ,1991
+Female,76,Brown,9,33,350,1991
+Female,72,Brown,8,50,590,1991
+Female,70,Brown,9,60,565,1991
+Female,70,Brown,8,33, ,1991
+Male,66,Brown,9,50, ,1991
+Male,77,Brown,7,67,410,1991
+Male,64,Brown,8,33, ,1991
+Male,68,Brown,9,67, ,1991
+Male,62,Brown,8,33,410,1991
+Female,69,Brown,7,35, ,1991
+Female,67,Brown,3,50, ,1991
+Female,73,Brown,9,65, ,1991
+Female,72,Brown,5,50, ,1991
+Female,74,Brown,5,35, ,1991
+Female,75,Brown, , ,730,1991
+Female,69,Other,5,60,380,1990
+Female,70,Other,1,50,575,1990
+Female,74,Other,10,54,390,1990
+Male,70,Other,8,87,350,1990
+Male,67,Other,5,100,500,1990
+Male,66,Green,9,50,430,1990
+Female,72,Green,7,80,400,1990
+Female,69,Green,9,75,560,1990
+Female,72,Green,8,45,350,1990
+Male,66,Green,8,20,500,1990
+Male,62,Blue,8,33,450,1990
+Male,69,Blue,8,100,236,1990
+Male,67,Blue,7,65,560,1990
+Male,72,Blue,2,25,570,1990
+Female,74,Blue,3,10,480,1990
+Female,72,Blue,1,100,670,1990
+Female,72,Blue,6,55,500,1990
+Female,71,Blue,8,55,480,1990
+Female,72,Blue,8,33,350,1990
+Male,68,Blue,6,40,350,1990
+Male,63,Brown,5,25,510,1990
+Female,73,Brown,9,67,350,1990
+Female,75,Brown,1,50,510,1990
+Female,70,Brown,7,100,480,1990
+Female,66,Brown,6,75,560,1990
+Female,68,Brown,10,95,500,1990
+Female,77,Brown,8,61,500,1990
+Female,72,Brown,9,50, ,1990
+Female,69,Brown,7,50,400,1990
+Female,78,Brown,7,57,560,1990
+Male,72,Brown,10,60,325,1990
+Male,69,Brown,7,50,300,1990
+Female,74,Green,8,85,500,1988
+Female,72,Green,7,50,475,1988
+Female,72,Green,9,75,440,1988
+Male,66,Green,10,95,200,1988
+Male,68,Green,5,50,440,1988
+Male,72,Green,6,95,480,1988
+Female,74,Blue,4,33,670,1988
+Female,72,Blue,9,15,500,1988
+Female,72,Blue,8,33,380,1988
+Female,72,Blue,9,35,275,1988
+Female,73,Brown,8,75,450,1988
+Female,68,Brown,7,20,420,1988
+Female,75,Brown,7,75,410,1988
+Female,71,Brown,9,70,400,1988
+Female,67,Brown,8,50,400,1988
+Female,69,Brown,5,33,360,1988
+Female,72,Brown,5,50, ,1988
+Male,72,Brown,7,33, ,1988
+Male,67,Brown,4,67,350,1988
+Male,65,Brown,7,70,355,1988
+Male,65,Brown,2,10,430,1988
+Female,71,Other,5,25,550,1987
+Female,72,Other,6,66,650,1987
+Female,73,Green,9,50, ,1987
+Female,68,Green,7,70, ,1987
+Female,70,Blue,10,100,300,1987
+Female,73,Blue,6,60,540,1987
+Female,69,Blue,6,70,420,1987
+Female,72,Blue,8,100,400,1987
+Female,72,Blue,9,50, ,1987
+Female,78,Brown,9,80,360,1987
+Female,72,Brown,8,60,300,1987
+Female,67,Brown,8,80, ,1987
+Female,75,Brown,8,70,400,1987
+Male,55,Brown,7,33,460,1987
+Female,75,Brown,8,50,500,1987
+Female,65,Brown,9,40, ,1987
+Male,67,Brown,7,85,470,1987
+Female,72,Brown,5,80,385,1987
+Male,68,Other,5,100,600,1985
+Female,72,Other,10,35,400,1985
+Female,55,Other,6,55,460,1985
+Male,65,Green,9,50,490,1985
+Female,70,Green,2,85,500,1985
+Male,64,Blue,7,50,400,1985
+Female,75,Blue,3,15,575,1985
+Female,74,Blue,8,60,450,1985
+Male,66,Brown,6,98,560,1985
+Male,64,Brown,5,55,520,1985
+Female, ,Brown,5,50,470,1985
+Female,74,Brown,8,99,490,1985
+Female,74,Brown,7,55,490,1985
+Female,72,Brown,4,75,550,1985
+Female,72,Brown,5,80,560,1985
+Female,72,Brown,10,55,500,1985
+Female,72,Brown,6,85,460,1985
+Female,72,Brown,3,95,450,1985
+Female,70,Brown,10,90,473,1985
+Female,70,Brown,5,100,340,1985
+Female,70,Brown,6,70,420,1985
+Male,67,Green,2,12,420,1984
+Male,69,Green,0,100,660,1984
+Female,74,Green,4,65,550,1984
+Female,74,Green,6,60,490,1984
+Female,69,Green,10,25,450,1984
+Female,70,Green,10,65,480,1984
+Female,75,Green,7,50,450,1984
+Female,74,Green,5,50,500,1984
+Male,67,Green,5,80,550,1984
+Male,62,Blue,9,100,440,1984
+Male,65,Blue,5,75,400,1984
+Female,76,Blue,7,50,550,1984
+Female,72,Blue,8,65, ,1984
+Female,70,Blue,8,50,530,1984
+Female,74,Blue,7,60,430,1984
+Male,68,Blue,4,65,540,1984
+Female,69,Brown,5,60,420,1984
+Female,69,Brown,10,75,570,1984
+Female,70,Brown,7,50,440,1984
+Female,72,Brown,5,50,350,1984
+Female,72,Brown,8,50,440,1984
+Female,72,Brown,8,80,380,1984
+Female,72,Brown,8,25,450,1984
+Female,72,Brown,3,30,420,1984
+Female,75,Brown,4,60,510,1984
+Female,72,Brown,9,45,370,1984
+Female,69,Brown,8,25,480,1984
+Female,74,Brown,8,50,580,1984
+Female,67,Brown,6,80,400,1984
+Female,74,Brown,5,40,400,1984
+Female,75,Brown,5,75, ,1984
+Female,65,Brown,5,35,410,1984
+Female,66,Brown,3,45,530,1984
+Male,63,Brown,5,20,410,1984
+Male,64,Brown,8,25,380,1984
+Male,65,Brown,8,25,590,1984
+Male,62,Brown,8,40,440,1984
+Female,71,Other,3,45,680,1983
+Male,68,Other,10,75,400,1983
+Female,70,Green,5,50,600,1983
+Female,72,Green,7,35,680,1983
+Female,75,Green,8,50,400,1983
+Female,68,Green,5,60,490,1983
+Female,72,Green,8,50,530,1983
+Female,70,Green,6,65,420,1983
+Female,74,Green,8,85,500,1983
+Female,74,Green,5,40,500,1983
+Female,62,Green,9,50, ,1983
+Female,74,Blue,10,60,590,1983
+Female,71,Blue,10,95,520,1983
+Female,72,Blue,7,57,380,1983
+Female,74,Blue,3,80,520,1983
+Female,66,Blue,2,40,550,1983
+Female,71,Blue,2,90,600,1983
+Female,76,Blue,8,40, ,1983
+Female,68,Blue,4,33, ,1983
+Male,64,Blue,5,50,480,1983
+Male,66,Blue,7,70,500,1983
+Female,72,Brown,9,80,410,1983
+Female,73,Brown,2,50,600,1983
+Female,72,Brown,8,90,490,1983
+Female,66,Brown,5,50,500,1983
+Female,74,Brown,10,50,350,1983
+Female,72,Brown,7,40,350,1983
+Female,75,Brown,7,67,450,1983
+Female,67,Brown,5,75,680,1983
+Female,74,Brown,10,60,380,1983
+Female,74,Brown,6,82,400,1983
+Female,72,Brown,10,20,400,1983
+Male,64,Brown,1,85,650,1983
+Male,69,Brown,6,50, ,1983
